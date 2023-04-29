@@ -1,4 +1,4 @@
-# Kinane
+# Kinane (djang0.dev)
 
 Hello 👋
 
@@ -10,21 +10,21 @@ I'm currently focused on TypeScript and Shopify Ecosystem. The environment being
 
 ### Technology
 
-- Telemetry: Loki, Grafana, Prometheus
-- Orchestration: Kubernetes (k3s)
 - Programming languages: Mainly TypeScript
-- Frontend: React, Rakkas, Next, Remix
+- Frontend: React, Rakkas, Next, Remix, Hydrogen
 - Backend: Nest, AdonisJS
 - Both Side: XState 🔥
-- Low Code: N8N, Appsmith, 
+- Low Code: N8N, Appsmith, NocoDB...
 - ORM: MikroORM, LucidORM
+- DB: PostgreSQL if possible
 - Queues: RabbitMQ, BullMQ
 
 ### Tools
 
-- Complice
-- Beeminder
-- Workflow
+- VSCode/Webstorm
+- WakaTime
+- Notion/Clickup
+- Figma
 
 ## Portfolio
 
