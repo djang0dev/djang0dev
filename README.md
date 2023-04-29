@@ -28,25 +28,13 @@ I'm currently focused on TypeScript and Shopify Ecosystem. The environment being
 
 ## Portfolio
 
-### Open-source
-
-| Project name | Description | Language | Notes |
-| ------------ | ----------- | -------- | ----- |
-| [postgresql-obsidian](https://github.com/clouedoc/postgresql-obsidian) | An <a href="https://obsidian.md">Obsidian</a> plugin to upload your notes' metadata to your database. | TypeScript | |
-| [3proxy-docker](https://github.com/force-adverse/3proxy-docker) | A Dockerfile for building 3proxy | Dockerfile | |
-| [soundcloud-scraper](https://github.com/clouedoc/soundcloud-scraper) | A time-machine for SoundCloud | TypeScript | WIP |
-| [AutoSQLi](https://github.com/clouedoc/AutoSQLi) | An automatic SQL Injection tool | Python | Never quite worked |
-| [typescript-boilerplate](https://github.com/clouedoc/typescript-boilerplate) | TypeScript | My evergreen TypeScript scraping project template. I will update it regularly, as I implement new tools into my workflow. |
-| [typescript-boilerplate-old](https://github.com/clouedoc/typescript-boilerplate-old) | TypeScript | An archived general-purpose TypeScript boilerplate. |
-| [puppeteer-boiler](https://github.com/clouedoc/puppeteer-boiler) | TypeScript | A deprecated browser-automation oriented TypeScript boilerplate. |
-
 ### Private
 
-| Project name | Description                                               | Language   | First commit  | Last commit |
+| Project name | Description                                               | Stack   | First commit  | Last commit |
 | ------------ | --------------------------------------------------------- | ---------- | ------------- | ----------- |
-| NoSelenium   | A Spotify API client                                      | TypeScript | August 1 2021 | **ongoing**     |
-| spotify-android   | A containerized Android automation toolkit.                                      | TypeScript | Jun 25 2022 | **ongoing** |
-| browserless-stealth | [Browserless](https://github.com/browserless/chrome) with evasions | TypeScript | Nov 10 2021 | **ongoing** |
+| Store Copilot   | AI-powered  shopping assistant for your brand | TS/Edge | April 6 2023 | **ongoing**     |
+| TurboBundle   | A shopify bundle app based on real products and coupons on the fly | Adonis/React/Preact/FSM | Dec 15 2022 | **ongoing** |
+| Get Scraped | An Instagram Scrapper | TS, Puppeteer | March 02 2022 | **paused** |
 | requests-stealth | Go stealth HTTP request engine featuring an experimentation engine and TLS emulation | Go | February 14 2022 | **ongoing** | 
 | simkhey | A SMS sending network that uses SIM800C USB modules and Raspberry Pis. Cheap alternative to Twilio | TypeScript | Jan 30 2022 | May 4 2022 |
 | OpinionShift | A Twitter bot                                             | TypeScript | April 13 2021 | June 2 2022     |
