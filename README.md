@@ -16,26 +16,15 @@ I'm currently focused on TypeScript and Shopify Ecosystem. The environment being
 - Frontend: React, Rakkas, Next, Remix
 - Backend: Nest, AdonisJS
 - Both Side: XState 🔥
+- Low Code: N8N, Appsmith, 
 - ORM: MikroORM, LucidORM
 - Queues: RabbitMQ, BullMQ
 
-### Productivity
-
-#### Tools
+### Tools
 
 - Complice
 - Beeminder
-- Workflowy
-
-### Inspirations
-
-- [Astahmer's works](https://antoinevastel.com/)
-- [TimescaleDB's blog](https://blog.timescale.com/blog/how-i-power-a-successful-crypto-trading-bot-with-timescaledb/)
-- [johackim's hacklab](https://johackim.com/start)
-- [puppeteer-extra's wiki](https://github.com/berstend/puppeteer-extra/wiki)
-- [the puppeteer-extra community](https://extra.community/)
-- [Prescience's dark-knowledge](https://github.com/prescience-data/dark-knowledge) (and all Prescience's work)
-- [niespod's browser-fingerprinting cheatsheet](https://github.com/niespodd/browser-fingerprinting)
+- Workflow
 
 ## Portfolio
 
@@ -71,7 +60,7 @@ I'm currently focused on TypeScript and Shopify Ecosystem. The environment being
 
 ## Contact
 
-Telegram: [@clouedoc](https://t.me/clouedoc)
+Telegram: [@turboappecom](https://t.me/https://t.me/turboappecom)
 
 Mail: [kinane@djang0.dev](mailto:kinane@djang0.dev)
 
