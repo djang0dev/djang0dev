@@ -50,4 +50,4 @@ And other stuff.. mainly related to Shopify for helping me create apps
 
 ## Contact
 
-Mail: [kinane@djang0.dev](mailto:kinane@djang0.dev)
+Mail: [hello@djang0.dev](mailto:hello@djang0.dev)
