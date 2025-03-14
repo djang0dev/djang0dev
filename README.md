@@ -38,7 +38,7 @@ If you believe I can type the right words to shape your idea, Let's connect: htt
 
 | Project name | Description                                               | Stack   | First commit  | Last commit |
 | ------------ | --------------------------------------------------------- | ---------- | ------------- | ----------- |
-| Retailed Size Chart   | A shopify bundle app based on real products and coupons on the fly | XState/Nest/(P)React | Nov 15, 2023 | **ongoing** |
+| Retailed Size Chart   | A Shopify app to create size charts with a product matching conditions and a realtime sync with metafields/ metaobjects | XState/Nest/(P)React | Nov 15, 2023 | **ongoing** |
 | Store Copilot   | AI-powered  shopping assistant for your brand | TS/Edge Runtime | April 6 2023 | **ended**     |
 | TurboBundle   | A shopify bundle app based on real products and coupons on the fly | Adonis/React/(P)react/XState | Dec 15, 2022 | **killed** |
 | Get Scraped | An Instagram Scrapper | TS, Puppeteer | March 02 2022 | **killed** |
